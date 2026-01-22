@@ -1,4 +1,4 @@
-# fakeTec v4.1pcb
+# fakeTec v4.1
 FakeTec V4.XX
 
 Robinson Labs have jumped on board FakeTec starting @ V4 from lupus worax. This is a complete redesign of the board correcting many issues. Robinson Labs will keep our own version files here so anyone that wants to make these boards will be able to.
